@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-X VIP Predictor",
+  "description": "Cyber-X 55Five VIP 5.5 Injector & Seed Discovery simulation tool with dual-engine prediction analysis, seed signature extraction, and community live chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
